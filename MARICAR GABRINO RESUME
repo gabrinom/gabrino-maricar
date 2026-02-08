@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume ni gabrino</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!--GABRINO,MARICAR B. 2B-->
+<div class="Container">
+    <!-- Profile Section -->
+    <div class="Profile">
+        <div class="Prof-Cont">
+            <div class="Image">
+                <img src="" alt="PROFILE" class="meow">
+            </div>
+            <div>
+                <span class="Fname">Maricar</span>
+                <span class="Lname">Gabrino</span>
+                <p class="Prof-Title">About me</p>
+                <p class="MC">I am looking for suitable company for work and opportunity where
+                  i could practice my knowledge <br>and develop my personality as a career person while utilizing my skills.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Left Column -->
+    <div class="Left-Corner">
+        <div class="Skill">
+            <h3 class="Title">WORK EXPERIENCE</h3>
+            <div class="Skills-List">
+              <p>JUNE 2024 - AUGUST 2024</p>
+                <li>PRODUCTION CREW</li>
+              <p>111 Pulong Gubat Rd,Balagtas Bulacan</p>
+              <p>LA PRIMERA POLLO. INC.</p>
+              <p>Sorting and all around </p> 
+            </div>
+        </div>
+      
+        <div class="Educ">
+            <h3 class="Title">EDUCATION</h3>
+            <div class="Educ-Item">
+                <p class="MC">2024-2026</p>
+                <h4 class="item">Associate in Computer Technology</h4>
+                <p class="MC">Bulacan Polytechnic College</p>
+            </div>
+            <div class="Educ-Item">
+                <p class="MC">2018-2024</p>
+                <h4 class="item">Secondary Education</h4>
+                <p class="MC">Balagtas National Agricultural High School</p>
+            </div>
+            <div class="Educ-Item">
+                <p class="des">2011-2018</p>
+                <h4 class="item">Primary Education</h4>
+                <p class="MC">Balagtas Central School</p>
+            </div>
+        </div>
+
+        <div class="Award">
+            <h3 class="Title">PROJECTS</h3>
+            <div class="Award-Item">
+                 <ul class="Skills-List">
+                <li>Fake e-commerce website</li>
+                   <p>(html,css,javascript)</p>
+                   <br>
+                <li>Mini payroll System</li>
+              <p>(C langu and c-sharp)</p>
+            </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Column -->
+    <div class="Right-Corner">
+        <div class="Exp">
+            <h3 class="Title">SKILLS</h3>
+            <div class="Exp-Item">
+                 <ul class="Skills-List">
+                <li>Computer and Software literacy</li>
+                <li>Pc assembly and maitenance</li>
+                <li>Technical support and customer assistance</li>
+                <li>Oriented in using Microsoft office<br> 
+                  Application such as Microsoft Office<br>
+                  Word Excel PowerPoint</li>
+            </ul>
+            </div>
+        </div>
+
+        <div class="Sem">
+            <h3 class="Title">TRAINING AND SEMINAR</h3>
+            <div class="Seminar-Item">
+                <p class="Item-PreTitle">WORK IMMERSION(IT Support)</p>
+                <p>80 Hours<br>
+                PowerTech<br>
+                #176 Essen Building, Paseo Liang, Malolos City, Bulacan</p>
+            </div>
+        </div>
+        <div class="Footer">
+            <div class="Footer-Cont">
+                <h3 class="Title">CONTACT</h3><br>
+                <p>0910-487-2003</p>
+                <p>maricargabrino17@gmail.com</p>
+                <p>Balagtas Bulacan</p>
+               <p>Maricar Gabrino</p>
+            </div>
+            <div class="Social">
+                <h3 class="Title">SOCIAL</h3>
+                <div class="Social-Items">
+                    <a href="#" class="Social-List">➤ Facebook</a>
+                    <a href="#" class="Social-List">➤ Instagram</a>
+                </div>
+            </div>
+        </div>
+          <!--GABRINO,MARICAR B. 2B -->
+    </div>
+</div>
+</body>
+</html>
